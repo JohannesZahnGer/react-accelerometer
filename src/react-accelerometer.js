@@ -1,4 +1,5 @@
 const React = require('react')
+import PropTypes from 'prop-types';
 
 /**
  * @usage
